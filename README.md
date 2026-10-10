@@ -18,7 +18,7 @@ This project focuses on cleaning, preprocessing, and analyzing flight data to id
 ## Dataset
 The dataset used in this project contains flight-related information for analyzing operational performance.
 
-- **Dataset Source:** [Paste your dataset link here](PASTE_DATASET_LINK_HERE)
+- **Dataset Source:** [https://drive.google.com/file/d/1yoVDd_bWtbQgE1EnpcXkbabuPzAao18P/view?usp=sharing](PASTE_DATASET_LINK_HERE)
 - **File Format:** CSV
 - **Access Instructions:** Download the dataset from the source link above.
 
@@ -36,11 +36,6 @@ The dataset used in this project contains flight-related information for analyzi
 - Filters and slicers for exploring flight data.
 - Analysis of delays, cancellations, and operational trends.
 
-## Dashboard Preview
-Add screenshots of your Power BI dashboard to the `screenshots/` folder.
-
-![Flight Analysis Dashboard](screenshots/dashboard-overview.png)
-
 ## Key Insights
 - Add your actual finding about flight delays here.
 - Add your actual finding about cancellations or airline performance here.
@@ -51,11 +46,6 @@ Add screenshots of your Power BI dashboard to the `screenshots/` folder.
 ```text
 flight-data-analysis/
 ├── README.md
-├── DATA_CLEANING.md
-├── data/
-│   └── README.md
-├── dashboard/
-│   └── flight-analysis.pbix
 └── screenshots/
     └── dashboard-overview.png
 ```
@@ -63,8 +53,7 @@ flight-data-analysis/
 ## How to Explore This Project
 1. Download the dataset using the source link above.
 2. Review the data cleaning and preprocessing documentation.
-3. Open the Power BI report if the `.pbix` file is available.
-4. Explore the dashboard and its interactive filters.
+3. Explore the dashboard and its interactive filters.
 
 ## Author
 **Alok Verma**
